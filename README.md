@@ -33,7 +33,7 @@ I am a passionate **Software Engineering Student** dedicated to building clean, 
 
 &nbsp;
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyneplermi3-rgb&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyneplermi3-rgb&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
