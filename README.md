@@ -40,3 +40,4 @@ I am a passionate **Software Engineering Student** dedicated to building clean, 
 
 ### 📫 Connect with me:
 🔗zeyneplermi3@gmail.com
+www.linkedin.com/in/zeynep-lermi-23781436a
