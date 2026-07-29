@@ -22,9 +22,9 @@ I am a passionate **Software Engineering Student** dedicated to building clean, 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 **Tools & Environment:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Dev-C++](https://img.shields.io/badge/Dev--C++-4B6E91?style=for-the-badge&logo=cplusplus&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-83B81A?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 
 ---
 
